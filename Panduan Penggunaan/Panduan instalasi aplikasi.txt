@@ -1,0 +1,10 @@
+Instalasi
+- Pindahkan folder Simulasi Monte Carlo ke folder htdocs atau www
+- Buat database dengan nama montecarlo
+- Import file yanga ada pada folder database
+
+
+Login
+
+user = admin
+password = admin

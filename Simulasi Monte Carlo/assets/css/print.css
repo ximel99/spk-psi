@@ -1,0 +1,47 @@
+#printpage, .header {width:500px;margin:0 auto;
+}
+
+
+.header {
+	border-bottom:2px solid #ccc;
+}
+
+.header h1 {
+font-size:30px;
+text-align:center;
+padding:10px;
+margin:0;
+}
+.content {
+	margin-top:20px;
+}
+.th-tabel-produk {
+	border-bottom:1px solid #ccc;
+	border-right:1px solid #ccc;
+	background:#eee;
+	height:30px;width:250px;padding:10px;text-align:center;font-size:14px;
+	background:#e5e5e5;
+}
+
+#noprint{
+display:none;
+}
+.alert-info {
+	margin-top:10px;
+}
+
+.td-tabel-produk {
+	border-bottom:1px solid #ccc;
+	border-right:1px solid #ccc;
+	height:30px;width:100px;padding:10px;text-align:left;font-size:14px;
+}
+.td-nilai {
+    border: none;
+    background: transparent;
+    font-size: 15px !important;
+}
+
+.tabel-produk{
+	border-left:1px solid #ccc !important;
+	border-top:1px solid #ccc !important;
+}
